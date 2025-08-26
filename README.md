@@ -1,4 +1,4 @@
-Add files via upload
+
 The file contains Python program that reads a file, modifies its contents, and writes the result to a new file,
 The file perfoms the following function:
 Reads all content from original.txt.
